@@ -16,9 +16,6 @@
     border-right: 1px solid #b13438;
 }
 
-.information--icon img {
-    transform: translateY(2px);
-}
 
 .information--contact {
     color: #fff;
